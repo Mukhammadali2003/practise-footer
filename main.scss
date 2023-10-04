@@ -1,0 +1,27 @@
+.chiziq{
+  width: 6rem;
+  height: 5px;
+  background-color: orangered;
+  margin: 0 auto;
+  margin-top: 2rem;
+}
+form{
+  width: 21rem;
+  height: 20rem;
+  margin: 2rem auto;
+  label{
+    padding-top: 1rem;
+    input{
+      width: 21rem;
+      height: 3rem;
+      border-radius: 5px;
+    }
+    textarea{
+      width: 21rem;
+      height: 7rem;
+      border-radius: 5px;
+    }
+  }
+}
+
+
